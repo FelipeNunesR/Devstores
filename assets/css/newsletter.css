@@ -61,4 +61,11 @@
   .news-left img {
     margin-right: 29px;
   }
+  .news-left h3 {
+    margin: 0;
+    margin-bottom: 4px;
+  }
+  .news-right {
+    flex-direction: row;
+  }
 }
